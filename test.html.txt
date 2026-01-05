@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Snapp! Driver</title>
+<style>
+  body { font-family: Arial, sans-serif; background: #fff; color: #111; padding: 20px; line-height: 1.6; }
+  h1 { font-size: 2em; margin-bottom: 5px; }
+  .section { margin-top: 40px; }
+  .stats, .log { font-family: monospace; }
+  .maps img { max-width: 100%; margin-top: 10px; display: block; }
+  a { font-size: 0.9em; color: #555; text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  .day-block { margin-bottom: 50px; }
+  .day-block h2 { margin-bottom: 5px; }
+</style>
+</head>
+<body>
+
+<h1>Snapp! Driver</h1>
+<p>Project ongoing: post-human, obedience & system traces</p>
+
+<!-- —Ê“ ? -->
+<div class="day-block">
+  <h2>Date: 2026-01-04</h2>
+
+  <div class="section stats">
+    <h3>Daily Stats</h3>
+    <p>Total Rides: 12(most routine, not listed individually)<br>
+       Distance: 213.3km<br>
+       Cancelled: 1<br>
+       Acceptance Rate: 10%<br>
+       Rating: 4.7
+    </p>
+  </div>
+
+  <div class="section log">
+    <h3>Selected Events</h3>
+    <p>08:59 ó Ride accepted (long route)<br>
+       08:47 ó Ride completed<br>
+       09:05 ó Ride cancelled<br>
+       12:30 ó Ride completed (unusual route)<br>
+       15:20 ó Ride accepted (high fare)<br>
+       18:55 ó Ride completed
+    </p>
+  </div>
+
+  <div class="section maps">
+    <h3>Maps / Routes</h3>
+    <img src="maps/map001" alt="Route Map 1">
+    
+  </div>
+</div>
+
+
+</div>
+
+<div class="statement">
+<p>
+«Ì‰ Å—ÊéÂ À»  Õ—ò  »œ‰Ì «”  òÂ œ—Ê‰ Ìò ”Ì” „ Å· ›—„Ì ›—«ŒÊ«‰œÂ „Ì ‘Êœ...
+<p>
+
+<p>
+»œ‰ ‰Â »Â ⁄‰Ê«‰ ”ÊéÂ «Ì ¬“«œ° »·òÂ »Â „À«»Â Ê«ÕœÌ «Ã—«ÌÌ...
+<p>
+</div>
+
+  <a href="Snapp_Driver_Statement.pdf" target="_blank">Download Statement PDF</a>
+</div>
+
+</body>
+</html>
